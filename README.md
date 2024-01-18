@@ -1,2 +1,2 @@
-# trust4ai
+# Trust4AI
 NGI Search project proposal
