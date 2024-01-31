@@ -4,9 +4,9 @@ env:
   WC_HUGO_VERSION: '0.119.0'
 
 on:
-  # Trigger the workflow every time you push to the `main` branch
+  # Trigger the workflow every time you push to the `gh-pages` branch
   push:
-    branches: ["main"]
+    branches: ["gh-pages"]
   # Allows you to run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
 
