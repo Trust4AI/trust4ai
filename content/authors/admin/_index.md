@@ -1,6 +1,6 @@
 ---
 # Display name
-title: NAME OF PROJECT
+title: Trust4AI #NAME OF PROJECT
 
 # Name pronunciation (optional)
 name_pronunciation: ''
