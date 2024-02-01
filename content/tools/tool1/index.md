@@ -1,6 +1,6 @@
 ---
 title: TOOL 1
-summary: SHORT DESCRIPTION
+summary:  Coming soon. #SHORT DESCRIPTION
 date: 2024-01-01
 ---
 
