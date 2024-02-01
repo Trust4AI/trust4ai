@@ -1,8 +1,8 @@
 ---
-title: "MEMBER 1"
+title: "Miriam Ugarte Querejeta"
 date: 2024-01-01
 draft: false
-summary: "Short bio goes here."
+summary: "Researcher"
 image: # la imagen debe de estar en la misma carpeta que este archivo y debe de llamarse avatar.*, o usar el atributo filename para especificar el nombre de la imagen
   placement: 1
   caption: 'profile picture'
