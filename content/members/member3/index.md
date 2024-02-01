@@ -1,10 +1,10 @@
 ---
 title: "Ana Belén Sánchez Jerez"
-date: 2024-01-01
+# date: 2024-01-01
 draft: false
 summary: "Researcher"
 image: # la imagen debe de estar en la misma carpeta que este archivo y debe de llamarse avatar.*, o usar el atributo filename para especificar el nombre de la imagen
-  placement: 1
+  placement: 3
   caption: 'profile picture'
   focal_point: 'TopLeft'
   preview_only: false
@@ -15,6 +15,10 @@ links:
     icon: linkedin # lista con todos los iconos en: https://docs.hugoblox.com/tutorial/resume/step-2/#skills
     name: Linkdin 
     url: 'https://linkedin.com/'
+  - icon_pack: fab
+    icon: Google Scholar # lista con todos los iconos en: https://docs.hugoblox.com/tutorial/resume/step-2/#skills
+    name: Google Scholar 
+    url: 'https://scholar.google.es/citations?hl=es&user=mqSyiHcAAAAJ&view_op=list_works&sortby=pubdate'
 ---
 
 **Department**  {{< icon name="building" pack="fas" >}} : DEPARTMENT 
