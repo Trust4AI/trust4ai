@@ -94,27 +94,30 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      # text: |-
+      #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: aarrieta@mondragon.edu #test@example.org
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: Reina Mercedes s/n
-        city: Sevilla
-        region: Sevilla
-        postcode: '41012'
+        street: Loramendi Kalea, 4, Edif. 6.
+        city: Gipuzkoa
+        region: Mondragón
+        postcode: '20500'
         country: España
         country_code: ES
       directions: Mondragon University
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Monday 10:00 to 18:00'
+        - 'Tuesday 10:00 to 18:00'
+        - 'Wednesday 10:00 to 18:00'
+        - 'Thursday 10:00 to 18:00'
+        - 'Friday 10:00 to 18:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.358333333333'
-        longitude: '-5.9871111111111'  
+        latitude: '43.061707777778'
+        longitude: '-2.4970211111111'  
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
