@@ -1,13 +1,13 @@
 ---
-title: " "
-authors:
-- admin
--  
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date:  
-doi: ""
+# title: " "
+# authors:
+# - admin
+# -  
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+# date:  
+# doi: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -15,36 +15,36 @@ doi: ""
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types:  
+# publication_types:  
 
 # Publication name and optional abbreviated publication name.
-publication: "* "
-publication_short: ""
+# publication: "* "
+# publication_short: ""
 
  
 
 # Summary. An optional shortened abstract.
 summary: 
 
-tags:
-- Source Themes
-featured: true
+# tags:
+# - Source Themes
+# featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_pdf: http://arxiv.org/pdf/1512.04133v1
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
+# image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   # focal_point: ""
   # preview_only: false
@@ -54,7 +54,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+# projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -63,5 +63,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
+Coming soon.
 
 
