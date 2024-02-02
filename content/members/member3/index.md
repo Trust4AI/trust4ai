@@ -14,7 +14,7 @@ links:
   - icon_pack: fab
     icon: linkedin # lista con todos los iconos en: https://docs.hugoblox.com/tutorial/resume/step-2/#skills
     name: Linkdin 
-    url: 'https://linkedin.com/'
+    url: 'https://www.linkedin.com/in/ana-bel%C3%A9n-s%C3%A1nchez-jerez-84988518/?originalSubdomain=es'
   - icon_pack: fab
     icon: Google Scholar # lista con todos los iconos en: https://docs.hugoblox.com/tutorial/resume/step-2/#skills
     name: Google Scholar 

@@ -14,7 +14,7 @@ links:
   - icon_pack: fab
     icon: linkedin # lista con todos los iconos en: https://docs.hugoblox.com/tutorial/resume/step-2/#skills
     name: Linkdin 
-    url: 'https://linkedin.com/'
+    url: 'https://www.linkedin.com/in/pablo-valle-entrena/?originalSubdomain=es'
   - icon_pack: fab
     icon: Google Scholar # lista con todos los iconos en: https://docs.hugoblox.com/tutorial/resume/step-2/#skills
     name: Google Scholar 
