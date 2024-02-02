@@ -1,9 +1,9 @@
 ---
-title: Example Demo
+title: Coming soon. # Example Demo
 
 
-summary: 'SORT DESCRIPTION'
-abstract: 'LONG DESCRIPTION'
+# summary:   'SORT DESCRIPTION'
+# abstract:  'LONG DESCRIPTION'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -24,10 +24,10 @@ featured: false
 #   focal_point: Right
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow
+#    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
