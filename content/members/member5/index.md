@@ -1,5 +1,5 @@
 ---
-title: "Member 5"
+title: "Pablo Valle Entrena"
 # date: 2024-01-01
 draft: false
 summary: "Researcher"
@@ -18,7 +18,7 @@ links:
   - icon_pack: fab
     icon: Google Scholar # lista con todos los iconos en: https://docs.hugoblox.com/tutorial/resume/step-2/#skills
     name: Google Scholar 
-    url: 'https://scholar.google.es/citations?hl=es&user=mqSyiHcAAAAJ&view_op=list_works&sortby=pubdate'
+    url: 'https://scholar.google.com/citations?user=VDljMSwAAAAJ&hl=es'
 ---
 
 **Department**  {{< icon name="building" pack="fas" >}} : DEPARTMENT 
