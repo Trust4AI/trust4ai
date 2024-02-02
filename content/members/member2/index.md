@@ -4,7 +4,7 @@ title: "José Antonio Parejo Maestre"
 draft: false
 summary: "Researcher"
 image: # la imagen debe de estar en la misma carpeta que este archivo y debe de llamarse avatar.*, o usar el atributo filename para especificar el nombre de la imagen
-  placement: 1
+  placement: 2
   caption: 'profile picture'
   focal_point: 'TopLeft'
   preview_only: false
