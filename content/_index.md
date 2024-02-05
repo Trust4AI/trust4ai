@@ -94,8 +94,7 @@ sections:
     content:
       title: Contact
       subtitle:
-       text: 
-         Trust4AI is licensed under the terms of the GPL-3.0 license.
+       text: Trust4AI is licensed under the terms of the GPL-3.0 license.
       # Contact (add or remove contact options as necessary)
       email: aarrieta@mondragon.edu #test@example.org
       # phone: 888 888 88 88
