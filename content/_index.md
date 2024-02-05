@@ -94,8 +94,8 @@ sections:
     content:
       title: Contact
       subtitle:
-      # text: |-
-      #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+       text: |-
+         Trust4AI is licensed under the terms of the GPL-3.0 license.
       # Contact (add or remove contact options as necessary)
       email: aarrieta@mondragon.edu #test@example.org
       # phone: 888 888 88 88
