@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Trust4AI: Trustable AI-Driven Internet Search
+      title: Trust4AI. Trustable AI-Driven Internet Search
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
