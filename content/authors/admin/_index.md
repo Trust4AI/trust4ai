@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Trust4AI #NAME OF PROJECT
+# title: Trust4AI #NAME OF PROJECT
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -10,8 +10,8 @@ first_name: ''
 last_name: ''
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,9 +20,9 @@ superuser: true
 role: ''
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: ORGANIZATION
-    url: https://score.us.es/
+# organizations:
+#  - name: ORGANIZATION
+#    url: https://score.us.es/
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
@@ -90,22 +90,22 @@ Skills:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
+# social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: '/#contact'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
   #   label: Follow me on Twitter
   #   display:
   #     header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/gcushen
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/
