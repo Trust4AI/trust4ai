@@ -94,7 +94,6 @@ sections:
     content:
       title: Contact
       subtitle:
-       text:|- 
       # Contact (add or remove contact options as necessary)
       email: aarrieta@mondragon.edu #test@example.org
       # phone: 888 888 88 88
