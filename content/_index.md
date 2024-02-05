@@ -108,12 +108,7 @@ sections:
         country: España
         country_code: ES
       directions: Mondragon University
-      office_hours:
-        - 'Monday 10:00 to 18:00'
-        - 'Tuesday 10:00 to 18:00'
-        - 'Wednesday 10:00 to 18:00'
-        - 'Thursday 10:00 to 18:00'
-        - 'Friday 10:00 to 18:00'
+
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '43.061707777778'
