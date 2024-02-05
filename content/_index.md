@@ -125,10 +125,6 @@ sections:
     design:
       columns: '2'
 
-License and funding
-
-Trust4AI is licensed under the terms of the GPL-3.0 license.
-
 
 ---
 
