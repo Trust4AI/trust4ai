@@ -9,7 +9,7 @@ editable: false
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: 'EU_funding_logo.png'
-  image: 'ruta/a/la/imagen.jpg](https://github.com/isa-group/trust4ai/blob/main/funding_logos/NGI_Search-rgb_Plan-de-travail-1-2048x410.png)https://github.com/isa-group/trust4ai/blob/main/funding_logos/NGI_Search-rgb_Plan-de-travail-1-2048x410.png'
+  image: 'funding_logos/NGI_Search-rgb_Plan-de-travail-1-2048x410.png'
 ---
 
 [//]: # (Add your terms here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.)
