@@ -6,7 +6,7 @@ image: # la imagen debe de estar en la misma carpeta que este archivo y debe de 
   placement: 1
   caption: 'profile picture'
   focal_point: 'TopLeft'
-  preview_only: false
+  preview_only: true
   alt_text: An optional description of the image for screen readers.
   # filename: my-image.jpg  # Uncomment to load an image from `assets/media/` instead.
 links:
