@@ -114,7 +114,17 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      
+
+    design:
+      columns: '2'
+  - block: license
+    id: license
+    content:
+      title: License
+    subtitle:
+      text:
+        'Trust4AI is licensed under the terms of the GPL-3.0 license.'      
+
     design:
       columns: '2'
 
