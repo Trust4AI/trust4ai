@@ -23,6 +23,9 @@ header:
 
 <img src="{{ .Site.BaseURL }}{{ .Params.header.image }}" alt="{{ .Params.header.caption }}">
 
+{{ with .Params.header.image }}
+  <img src="{{ .Site.BaseURL }}{{ . }}" alt="{{ with $.Params.header.caption }}{{ . }}{{ end }}">
+{{ end }}
 
 
 
