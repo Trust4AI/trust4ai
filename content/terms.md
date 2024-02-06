@@ -21,11 +21,7 @@ header:
 
 [//]: # (Add your terms here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.)
 
-<img src="{{ .Site.BaseURL }}{{ .Params.header.image }}" alt="{{ .Params.header.caption }}">
 
-{{ with .Params.header.image }}
-  <img src="{{ .Site.BaseURL }}{{ . }}" alt="{{ with $.Params.header.caption }}{{ . }}{{ end }}">
-{{ end }}
 
 
 
