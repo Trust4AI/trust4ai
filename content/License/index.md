@@ -1,32 +1,16 @@
 ---
-title: "Miriam Ugarte Querejeta"
+title: "License"
 draft: false
-summary: "Researcher"
+summary: "rust4AI is licensed under the terms of the GPL-3.0 license."
 image: # la imagen debe de estar en la misma carpeta que este archivo y debe de llamarse avatar.*, o usar el atributo filename para especificar el nombre de la imagen
   placement: 1
   caption: 'profile picture'
   focal_point: 'TopLeft'
   preview_only: false
-  alt_text: An optional description of the image for screen readers.
+  alt_text: Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or European Commission. Neither the European Union nor the granting authority can be held responsible for them. Funded within the framework of the NGI Search project under grant agreement No 101069364.
   # filename: my-image.jpg  # Uncomment to load an image from `assets/media/` instead.
-links:
-  - icon_pack: fab
-    icon: linkedin # lista con todos los iconos en: https://docs.hugoblox.com/tutorial/resume/step-2/#skills
-    name: Linkdin 
-    url: 'https://www.linkedin.com/in/miriam-ugarte-querejeta-57994188/?originalSubdomain=es'
-  - icon_pack: fab
-    icon: Google Scholar # lista con todos los iconos en: https://docs.hugoblox.com/tutorial/resume/step-2/#skills
-    name: Google Scholar 
-    url: 'https://scholar.google.com/citations?user=A63smn4AAAAJ'
+
   
 ---
 
-**Department**  {{< icon name="building" pack="fas" >}} : DEPARTMENT 
 
-**Group** {{< icon name="users" pack="fas" >}} : GROUP
-
-**Knowledgement Area** {{< icon name="book" pack="fas" >}} : KNOWLEDGEMENT AREA
-
-**Contact** {{< icon name="envelope" pack="fas" >}} : EMAIL
-
-**Description** {{< icon name="info-circle" pack="fas" >}} : LONG DESCRIPTION
