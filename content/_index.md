@@ -117,7 +117,6 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: license
     content:
       title: License
     subtitle:
