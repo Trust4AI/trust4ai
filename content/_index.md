@@ -116,14 +116,7 @@ sections:
       # Email form provider
     design:
       columns: '2'
-  - block: collection
-    content:
-      title: License
-    subtitle:
-      text:
-        'Trust4AI is licensed under the terms of the GPL-3.0 license.'      
-    design:
-      columns: '2'
+
 
 
 ---
