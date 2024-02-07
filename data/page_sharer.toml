@@ -72,3 +72,13 @@
   icon_pack = "fab"
   icon = "tumblr"
   enable = false
+
+[[buttons]]
+  id = "ngisearch"
+  url = "https://www.ngisearch.eu/"
+  title = "ngisearch"
+  icon_pack = "fab"
+  icon = "ngisearch"
+  enable = false
+
+
