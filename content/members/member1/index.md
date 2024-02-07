@@ -1,6 +1,6 @@
 ---
 title: "Miriam Ugarte Querejeta"
-order: 1
+weight: 1
 draft: false
 summary: "Researcher"
 image: # la imagen debe de estar en la misma carpeta que este archivo y debe de llamarse avatar.*, o usar el atributo filename para especificar el nombre de la imagen
