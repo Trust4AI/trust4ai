@@ -22,6 +22,8 @@ links:
   
 ---
 
+**Description** {{< icon name="info-circle" pack="fas" >}} : LONG DESCRIPTION
+    
 The Trust4AI research project aims to explore new methods and tools for the automated detection of bugs in AI-driven search engines in accordance with EU trustworthiness compliance requirements. Trust4AI is part of the NGI Search project. (3)
 
 {style="text-align: justify;"}
