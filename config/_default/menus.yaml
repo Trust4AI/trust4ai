@@ -27,7 +27,12 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
-
+  - name: License
+    url: '#license'
+    weight: 70
+    
+license:
+  content: ''
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
