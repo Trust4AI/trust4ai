@@ -15,7 +15,7 @@ editable: false
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: 'EU_funding_logo.png'
+  caption: 'EU Funding Logo'
   image: 'funding_logos/NGI_Search-rgb_Plan-de-travail-1-2048x410.png'
 ---
 
