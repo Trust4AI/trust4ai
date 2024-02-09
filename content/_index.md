@@ -124,13 +124,15 @@ sections:
       filters:
         folders:
           - License
-    design:
-      columns: '2'
-      view: compact    
-
     image:
     caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
     preview_only: false
+
+    design:
+      columns: '3'
+      view: compact    
+
+
 
 ---
     
