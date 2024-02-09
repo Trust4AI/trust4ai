@@ -15,4 +15,4 @@ The Trust4AI research project aims to explore new methods and tools for the auto
 
 {style="text-align: justify;"}
 
-![](/main/funding_logos/EU_funding_logo.pgn)
+![](/../main/funding_logos/EU_funding_logo.png)
