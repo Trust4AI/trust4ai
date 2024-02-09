@@ -121,18 +121,17 @@ sections:
     content:
       title: Funded by the European Union.
       subtitle: Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or European Commission. Neither the European Union nor the granting authority can be held responsible for them. Funded within the framework of the [NGI Search project](https://www.ngisearch.eu/) under grant agreement No 101069364.
-      filters:
-        folders:
-          - License
-    image: log
-    caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-    preview_only: false
+      # filters:
+      #  folders:
+      #    - License
 
     design:
       columns: '1'
       # view: compact    
 
-
+    image:
+      source: main
+      url: /../main/funding_logos/NGI_Search-rgb_Plan-de-travail-1-2048x410.png
 
 
 
