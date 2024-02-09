@@ -123,6 +123,9 @@ sections:
       filters:
         folders:
           - License
+    design:
+      columns: '2'
+      view: compact    
 ---
 
 
