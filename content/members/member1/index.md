@@ -1,3 +1,8 @@
+<ul class="list">  ← I can write HTML too.
+  <li>Fruit</li>
+  <li>Dairy</li>
+</ul>
+
 ---
 title: "Miriam Ugarte Querejeta"
 weight: 1
