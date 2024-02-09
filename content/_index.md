@@ -126,6 +126,16 @@ sections:
     design:
       columns: '2'
       view: compact    
+    items:
+      - block: texto
+        content: |
+      - block: image
+        image: /static/media/EU_funding_logo.png
+        alt: Imagen 1
+      - block: image
+        image: /../main/funding_logos/EU_funding_logo.png
+        alt: Imagen 2
+
 ---
 
 
