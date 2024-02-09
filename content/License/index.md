@@ -3,7 +3,7 @@ title: "License and funding"
 draft: false
 summary: "Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or European Commission. Neither the European Union nor the granting authority can be held responsible for them. Funded within the framework of the NGI Search project under grant agreement No 101069364.(2)"
 image: 
-  filename: assets/media/NGI_Search-rgb_Plan-de-travail-1-2048x410.png
+  filename: ![](/../main/funding_logos/EU_funding_logo.png) #assets/media/NGI_Search-rgb_Plan-de-travail-1-2048x410.png
   
   
   
