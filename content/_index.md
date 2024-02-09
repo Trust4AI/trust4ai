@@ -133,7 +133,7 @@ sections:
         image: /../main/funding_logos/EU_funding_logo.png
         alt: Imagen 1
       - block: image
-        image: /../main/funding_logos/NGI_Search-rgb_Plan-de-travail-1-2048x410.png
+        image: ![](/../main/funding_logos/NGI_Search-rgb_Plan-de-travail-1-2048x410.png)
         alt: Imagen 2
 
 ---
