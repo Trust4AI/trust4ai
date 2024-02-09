@@ -138,7 +138,7 @@ sections:
 
 ---
 
-
+![](/../main/funding_logos/NGI_Search-rgb_Plan-de-travail-1-2048x410.png)
 
 
 
