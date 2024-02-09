@@ -120,8 +120,9 @@ sections:
     id: License
     content:
       title: Funded by the European Union.
-
-
+      filters:
+        folders:
+          - License
 ---
 
 
