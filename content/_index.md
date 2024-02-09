@@ -120,12 +120,17 @@ sections:
     id: License
     content:
       title: Funded by the European Union.
+      summary: texto
       filters:
         folders:
           - License
-    design:
-      columns: '2'
-      view: compact    
+    # design:
+    #  columns: '2'
+    #  view: compact    
+    image:
+    caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+    focal_point: ""
+    preview_only: false
     items:
       - block: texto
         content: |
