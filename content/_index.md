@@ -116,7 +116,7 @@ sections:
       # Email form provider
     design:
       columns: '2'
-  - block: License
+  - block: collection
     id: License
     content:
       title: Funded by the European Union.
