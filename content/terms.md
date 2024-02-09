@@ -15,7 +15,7 @@ editable: false
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: 'EU Funding Logo'
-  image: '/.../funding_logos/EU_funding_logo.png'
+  image: '/main/funding_logos/EU_funding_logo.png'
 ---
 
 [//]: # (Add your terms here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.)
