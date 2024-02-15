@@ -1,6 +1,7 @@
 ---
 title: "Aitor Arrieta Marcos"
 weight: 6
+show_date: false
 draft: false
 summary: "Principal investigator"
 image: # la imagen debe de estar en la misma carpeta que este archivo y debe de llamarse avatar.*, o usar el atributo filename para especificar el nombre de la imagen
