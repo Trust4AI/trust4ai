@@ -45,7 +45,8 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Trust4AI. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>'
+    notice: '© {year} Trust4AI. This work is licensed under <img src="https://github.com/isa-group/trust4ai/blob/main/funding_logos/NGI_Search-rgb_Plan-de-travail-1-2048x410.png" width="400">'
+    
     license:
       enable: true
       allow_derivatives: false
