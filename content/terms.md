@@ -23,5 +23,5 @@ Funded by the European Union. Views and opinions expressed are however those of 
 
 <p align="center">
 <img src="https://github.com/isa-group/trust4ai/blob/main/funding_logos/NGI_Search-rgb_Plan-de-travail-1-2048x410.png" width="100" style="display: inline-block;">
-<img src="https://github.com/isa-group/trust4ai/blob/main/funding_logos/EU_funding_logo.png" width="500" style="display: inline-block;">
+<img src="https://github.com/isa-group/trust4ai/blob/main/funding_logos/EU_funding_logo.png" width="50" style="display: inline-block;">
 </p>
