@@ -7,7 +7,7 @@ title: Trust4AI project kick-off meeting # Example Demo
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-# date: '2030-06-01T13:00:00Z'
+date: 'show_date: false' # '2030-06-01T13:00:00Z'
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
