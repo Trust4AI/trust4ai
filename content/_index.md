@@ -67,7 +67,7 @@ sections:
   - block: collection
     id: demos
     content:
-      title: Demos
+      title: Videos
       filters:
         folders:
           - event
