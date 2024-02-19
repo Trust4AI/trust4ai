@@ -116,24 +116,6 @@ sections:
       # Email form provider
     design:
       columns: '2'
-  - block: collection
-    id: License
-    content:
-      title: Funded by the European Union.
-      subtitle: Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or European Commission. Neither the European Union nor the granting authority can be held responsible for them. Funded within the framework of the [NGI Search project](https://www.ngisearch.eu/) under grant agreement No 101069364.
-      filters:
-        folders:
-          - License
-    design:
-      columns: '1'
-      view: compact    
-
-    image:
-      source: main
-      url: /../main/funding_logos/NGI_Search-rgb_Plan-de-travail-1-2048x410.png
-
-
-
 ---
     
     items:
