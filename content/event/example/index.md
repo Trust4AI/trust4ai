@@ -1,5 +1,5 @@
 ---
-title: Videos. # Example Demo
+title: Trust4AI project kick-off meeting # Example Demo
 
 
 # summary:   'SORT DESCRIPTION'
