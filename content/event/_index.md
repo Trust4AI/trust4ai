@@ -1,5 +1,5 @@
 ---
-title: Demos
+title: Videos
 cms_exclude: true
 
 # View.
