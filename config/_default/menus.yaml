@@ -16,9 +16,9 @@ main:
   - name: Resources
     url: '#resources'
     weight: 50
-  - name: Demos
+  - name: Videos
     parent: Resources
-    url: '#demos'
+    url: '#Videos'
     weight: 10
   - name: Tools
     parent: Resources
