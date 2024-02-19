@@ -1,5 +1,6 @@
 ---
 title: Videos
+how_date: false
 cms_exclude: true
 
 # View.
