@@ -17,7 +17,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 # image: # para añadir una imagen, debe de estar en la misma carpeta que este archivo y debe de llamarse featured.*
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
