@@ -119,11 +119,6 @@ sections:
     design:
       columns: '2'
 ---
-    
-<p align="center"style="display: inline-block; margin: 0;">
-<img src="https://github.com/trust4AI/trust4ai/blob/main/funding_logos/NGI_Search-rgb_Plan-de-travail-1-2048x410.png" width="400" style="margin-right: 20px;">
-<img src="https://github.com/trust4AI/trust4ai/blob/main/funding_logos/EU_funding_logo.png" width="200">
-</p>
 
 
 
