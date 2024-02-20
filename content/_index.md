@@ -74,6 +74,7 @@ sections:
     design:
       columns: '2'
       view: compact
+      show_date: false
   - block: collection
     id: tools
     content:
