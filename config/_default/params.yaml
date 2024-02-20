@@ -47,9 +47,9 @@ footer:
   copyright:
     notice: '© {year} Trust4AI. Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or European Commission. Neither the European Union nor the granting authority can be held responsible for them. Funded within the framework of the [NGI Search project](https://www.ngisearch.eu/) under grant agreement No 101069364. 
     <div style="display: flex; justify-content: space-between;"> 
-    <img src="https://raw.githubusercontent.com/trust4AI/trust4ai/main/funding_logos/EU_funding_logo.png" width="200"> 
-    <img src="https://raw.githubusercontent.com/trust4AI/trust4ai/main/funding_logos/NGI_Search-rgb_Plan-de-travail-1-2048x410.png" width="100" style="margin-right: 100px;">
-    </div>'  
+    <img src="https://raw.githubusercontent.com/trust4AI/trust4ai/main/funding_logos/EU_funding_logo.png" width="150" style="margin-right: 20px;"> 
+    <img src="https://raw.githubusercontent.com/trust4AI/trust4ai/main/funding_logos/NGI_Search-rgb_Plan-de-travail-1-2048x410.png" width="100">
+    </div>'    
     license:
       enable: true
       allow_derivatives: false
