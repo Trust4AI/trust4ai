@@ -120,25 +120,10 @@ sections:
       columns: '2'
 ---
     
-    items:
-      - block: texto
-        content: |
-      - block: image
-        image: /../main/funding_logos/EU_funding_logo.png
-        alt: Imagen 1
-      - block: image
-        image: ![](/../main/funding_logos/NGI_Search-rgb_Plan-de-travail-1-2048x410.png)
-        alt: Imagen 2
-
-
-
-![](/../main/funding_logos/NGI_Search-rgb_Plan-de-travail-1-2048x410.png)
-
-<p align="center">
-<img src="https://github.com/isa-group/trust4ai/blob/main/funding_logos/NGI_Search-rgb_Plan-de-travail-1-2048x410.png" width="400">
-<img src="https://github.com/isa-group/trust4ai/blob/main/funding_logos/EU_funding_logo.png" width="200">
+<p align="center"style="display: inline-block; margin: 0;">
+<img src="https://github.com/trust4AI/trust4ai/blob/main/funding_logos/NGI_Search-rgb_Plan-de-travail-1-2048x410.png" width="400" style="margin-right: 20px;">
+<img src="https://github.com/trust4AI/trust4ai/blob/main/funding_logos/EU_funding_logo.png" width="200">
 </p>
-
 
 
 
