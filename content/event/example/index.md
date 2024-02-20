@@ -1,6 +1,6 @@
 ---
 title: Trust4AI project kick-off meeting # Example Demo
-# date: 2022-02-19
+date: ' '
 
 
 # summary:   'SORT DESCRIPTION'
