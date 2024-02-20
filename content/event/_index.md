@@ -9,6 +9,8 @@ cms_exclude: true
 #   3 = Card
 view: 2
 
+hide_logo: true
+
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ''
