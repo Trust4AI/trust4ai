@@ -25,7 +25,7 @@ role: ''
 #    url: https://score.us.es/
 
 # Short bio (displayed in user profile at end of posts)
-bio: ''
+bio: '  [![Mendeley](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKanls5QWk6dasSZn_8KZdazTdHrRWWJNMLA&usqp=CAU)](https://www.mendeley.com/reference-manager/library/groups/private/a14b6eab-d143-392e-a380-2ffb0ea8b3c2/all-references/)'
 
 # Interests to show in About widget
 interests:
