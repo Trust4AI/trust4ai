@@ -75,11 +75,11 @@ Skills:
   #       percent: 60
   #       icon: person-hiking
   #       icon_pack: fas
-  #     - name: Cats
+       - name: Cats
   #       description: ''
-  #       percent: 100
-  #       icon: cat
-  #       icon_pack: fas
+         percent: 100
+         icon: cat
+         icon_pack: fas
   #     - name: Photography
   #       description: ''
   #       percent: 80
