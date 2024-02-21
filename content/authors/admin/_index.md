@@ -69,17 +69,22 @@ Skills:
   # - name: Hobbies
   #   color: '#eeac02'
   #   color_border: '#f0bf23'
-  #   items:
+     items:
   #     - name: Hiking
   #       description: ''
   #       percent: 60
   #       icon: person-hiking
   #       icon_pack: fas
        - name: Cats
-  #       description: ''
+         description: ''
          percent: 100
          icon: cat
          icon_pack: fas
+       - name: Mendeley
+         description: ''
+         percent: 100
+         icon: academicons/mendeley
+          
   #     - name: Photography
   #       description: ''
   #       percent: 80
