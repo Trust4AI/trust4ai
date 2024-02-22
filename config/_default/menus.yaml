@@ -11,6 +11,7 @@ main:
     url: '#members'
     weight: 20
   - name: Publications
+    show_date: false
     url: '#featured'
     weight: 40
   - name: Resources
