@@ -1,7 +1,11 @@
 ---
 # Display name
 #title: #NAME OF PROYECT
-
+links:
+  - icon_pack: fab
+    icon: twitter
+    name: Follow
+    url: 'https://twitter.com/Twitter'
 # Name pronunciation (optional)
 name_pronunciation: ''
 
