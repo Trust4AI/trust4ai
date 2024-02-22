@@ -25,7 +25,7 @@ role: ''
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: <img src="https://github.com/Trust4AI" alt="us" width="50">
+  - name: github
     url: https://github.com/Trust4AI
 
 # Short bio (displayed in user profile at end of posts)
