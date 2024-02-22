@@ -69,6 +69,7 @@ sections:
     id: Videos
     content:
       title: Videos
+      show_date: false
       filters:
         folders:
           - event
@@ -80,6 +81,7 @@ sections:
     id: tools
     content:
       title: Tools
+      show_date: false
       filters:
         folders:
           - tools
