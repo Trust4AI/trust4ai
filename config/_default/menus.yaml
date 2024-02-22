@@ -18,6 +18,7 @@ main:
     url: '#resources'
     weight: 50
   - name: Videos
+    show_date: false
     parent: Resources
     url: '#Videos'
     weight: 10
