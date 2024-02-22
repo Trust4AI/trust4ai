@@ -24,18 +24,18 @@ superuser: true
 role: ''
 
 # Organizations/Affiliations to show in About widget
-# organizations:
-#  - name: ORGANIZATION
-#    url: https://score.us.es/
+organizations:
+  - name: ORGANIZATION
+    url: https://score.us.es/
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
 
 # Interests to show in About widget
 interests:
-  # - Artificial Intelligence
-  # - Computational Linguistics
-  # - Information Retrieval
+    - Artificial Intelligence
+    - Computational Linguistics
+    - Information Retrieval
 
 # Education to show in About widget
 education:
