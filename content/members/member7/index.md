@@ -22,12 +22,3 @@ links:
     url: 'https://scholar.google.com/citations?user=AcMLHeEAAAAJ&hl=es'
 ---
 
-**Department**  {{< icon name="building" pack="fas" >}} : DEPARTMENT 
-
-**Group** {{< icon name="users" pack="fas" >}} : GROUP
-
-**Knowledgement Area** {{< icon name="book" pack="fas" >}} : KNOWLEDGEMENT AREA
-
-**Contact** {{< icon name="envelope" pack="fas" >}} : EMAIL
-
-**Description** {{< icon name="info-circle" pack="fas" >}} : LONG DESCRIPTION
