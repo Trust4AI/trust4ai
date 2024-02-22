@@ -17,5 +17,4 @@ Funded by the European Union. Views and opinions expressed are however those of 
 <img src="https://github.com/isa-group/trust4ai/blob/main/funding_logos/EU_funding_logo.png" width="200">
 </p>
 
-## Link to Mendeley
-  [![Mendeley](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKanls5QWk6dasSZn_8KZdazTdHrRWWJNMLA&usqp=CAU)](https://www.mendeley.com/reference-manager/library/groups/private/a14b6eab-d143-392e-a380-2ffb0ea8b3c2/all-references/)
+
