@@ -25,8 +25,8 @@ role: ''
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: ORGANIZATION
-    url: https://score.us.es/
+  - name: <img src="https://github.com/Trust4AI" alt="us" width="50">
+    url: https://github.com/Trust4AI
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
