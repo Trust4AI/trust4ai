@@ -20,14 +20,15 @@ links:
     icon: Google Scholar # lista con todos los iconos en: https://docs.hugoblox.com/tutorial/resume/step-2/#skills
     name: Google Scholar 
     url: 'https://scholar.google.es/citations?user=ft06jF4AAAAJ&hl=es'
+# **Department**  {{< icon name="building" pack="fas" >}} : DEPARTMENT 
+
+# **Group** {{< icon name="users" pack="fas" >}} : GROUP
+
+# **Knowledgement Area** {{< icon name="book" pack="fas" >}} : KNOWLEDGEMENT AREA
+
+# **Contact** {{< icon name="envelope" pack="fas" >}} : EMAIL
+
+# **Description** {{< icon name="info-circle" pack="fas" >}} : LONG DESCRIPTION
 ---
 
-**Department**  {{< icon name="building" pack="fas" >}} : DEPARTMENT 
 
-**Group** {{< icon name="users" pack="fas" >}} : GROUP
-
-**Knowledgement Area** {{< icon name="book" pack="fas" >}} : KNOWLEDGEMENT AREA
-
-**Contact** {{< icon name="envelope" pack="fas" >}} : EMAIL
-
-**Description** {{< icon name="info-circle" pack="fas" >}} : LONG DESCRIPTION
