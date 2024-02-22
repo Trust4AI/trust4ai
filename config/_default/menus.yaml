@@ -15,6 +15,7 @@ main:
     url: '#featured'
     weight: 40
   - name: Resources
+    show_date: false
     url: '#resources'
     weight: 50
   - name: Videos
@@ -23,6 +24,7 @@ main:
     url: '#Videos'
     weight: 10
   - name: Tools
+    show_date: false
     parent: Resources
     url: '#tools'
     weight: 20
