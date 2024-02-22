@@ -1,11 +1,7 @@
 ---
 # Display name
 #title: #NAME OF PROYECT
-links:
-  - icon_pack: fab
-    icon: twitter
-    name: Follow
-    url: 'https://twitter.com/Twitter'
+
 # Name pronunciation (optional)
 name_pronunciation: ''
 
@@ -32,10 +28,10 @@ organizations:
 bio: ''
 
 # Interests to show in About widget
-interests:
-    - Artificial Intelligence
-    - Computational Linguistics
-    - Information Retrieval
+# interests:
+    # - Artificial Intelligence
+    # - Computational Linguistics
+    # - Information Retrieval
 
 # Education to show in About widget
 education:
