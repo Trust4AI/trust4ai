@@ -1,5 +1,5 @@
 ---
-title: 'Mutation Testing in Practice. Insights from Open-Source Software Developers'
+title: 'Mutation Testing in Practice: Insights from Open-Source Software Developers'
 subtitle: 'Transactions on Software Engineering, 2024.'
 draft: false
 # Authors
