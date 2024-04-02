@@ -8,6 +8,7 @@ authors:
   - Ana B.Sánchez, José A. Parejo, Sergio Segura, Amador Durán, Mike Papadakis
   - Mutation Testing in Practice. Insights from Open-Source Software Developers
   - IEEE Transactions on Software Engineering, 2024.
+  - 
 
 # Author notes (optional)
 author_notes:
