@@ -86,3 +86,8 @@ slides:
 
 ---
 
+Mutation Testing in Practice. Insights from Open-Source Software Developers
+
+
+
+IEEE Transactions on Software Engineering, 2024.
