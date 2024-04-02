@@ -84,14 +84,6 @@ slides:
 # Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
 
 
----
-
-Romero-Arjona Miguel, Segura Sergio, Arrieta Aitor
-
-
-Toward Trustworthy AI-Enabled Internet Search 
-
-
-Jornadas de Ingeniería del Software y Bases de Datos JISBD, 2024.
+Romero-Arjona Miguel, Segura Sergio, and Arrieta Aitor. **Toward Trustworthy AI-Enabled Internet Search**. Jornadas de Ingeniería del Software y Bases de Datos JISBD, 2024.
 
 
