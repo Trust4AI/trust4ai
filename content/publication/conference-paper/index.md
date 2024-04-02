@@ -1,14 +1,17 @@
 ---
-title: ' '
+title: 'Mutation Testing in Practice. Insights from Open-Source Software Developers'
+subtitle: 'Transactions on Software Engineering, 2024.'
 draft: false
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Ana B.Sánchez, José A. Parejo, Sergio Segura, Amador Durán, Mike Papadakis
-  - Mutation Testing in Practice. Insights from Open-Source Software Developers
-  - IEEE Transactions on Software Engineering, 2024.
-  - 
+  - Ana B.Sánchez
+  - José A. Parejo
+  - Sergio Segura
+  - Amador Durán
+  - Mike Papadakis
+
 
 # Author notes (optional)
 author_notes:
@@ -86,8 +89,5 @@ slides:
 
 ---
 
-Mutation Testing in Practice. Insights from Open-Source Software Developers
-<br>
 
 
-IEEE Transactions on Software Engineering, 2024.
