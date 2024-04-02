@@ -1,7 +1,7 @@
 ---
-title: 'Toward Trustworthy AI-Enabled Internet Search'
-
-subtitle: ' Jornadas de Ingeniería del Software y Bases de Datos (JISBD 2024)'
+title: ''
+text: 'Toward Trustworthy AI-Enabled Internet Search'
+subtitle: ' Jornadas de Ingeniería del Software y Bases de Datos JISBD, 2024.'
 draft: false
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -16,7 +16,7 @@ authors:
 author_notes:
 
 
-date: '2024'
+# date: '2024'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
