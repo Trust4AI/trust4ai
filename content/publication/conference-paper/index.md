@@ -29,8 +29,8 @@ doi: ''
 # publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: Miguel, Sergio, Aitor. Title here. 
-publication_short: Jornadas de Ingeniería del Software y Bases de Datos (JISBD'24). 2024
+## publication: Miguel, Sergio, Aitor. Title here. 
+## publication_short: Jornadas de Ingeniería del Software y Bases de Datos (JISBD'24). 2024
 
 
 # Summary. An optional shortened abstract.
