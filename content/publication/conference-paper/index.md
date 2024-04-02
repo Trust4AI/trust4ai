@@ -6,10 +6,12 @@ draft: false
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Ana B.Sánchez, José A. Parejo, Sergio Segura, Amador Durán, Mike Papadakis
-  -  
+  - Mutation Testing in Practice. Insights from Open-Source Software Developers
+  - IEEE Transactions on Software Engineering, 2024.
 
 # Author notes (optional)
 author_notes:
+
 
 date: '2024-04-01T00:00:00Z'
 doi: ''
@@ -79,6 +81,7 @@ slides:
 # {{% /callout %}}
 
 # Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+
 
 ---
 
