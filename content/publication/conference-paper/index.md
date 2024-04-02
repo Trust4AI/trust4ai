@@ -12,6 +12,8 @@ authors:
   - Arrieta Aitor
 
 
+
+
 # Author notes (optional)
 author_notes:
 
@@ -88,5 +90,8 @@ slides:
 
 ---
 
+Romero-Arjona Miguel, Segura Sergio, Arrieta Aitor  
+Toward Trustworthy AI-Enabled Internet Search  
+Jornadas de Ingeniería del Software y Bases de Datos JISBD, 2024.
 
 
