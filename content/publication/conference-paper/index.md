@@ -1,23 +1,22 @@
 ---
-title: 'Mutation Testing in Practice: Insights from Open-Source Software Developers'
-subtitle: 'Transactions on Software Engineering, 2024.'
+title: 'Toward Trustworthy AI-Enabled Internet Search'
+
+subtitle: ' Jornadas de Ingeniería del Software y Bases de Datos (JISBD 2024)'
 draft: false
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Ana B.Sánchez
-  - José A. Parejo
-  - Sergio Segura
-  - Amador Durán
-  - Mike Papadakis
+  - Romero-Arjona Miguel
+  - Segura Sergio
+  - Arrieta Aitor
 
 
 # Author notes (optional)
 author_notes:
 
 
-date: '2024-04-01T00:00:00Z'
+date: '2024'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
