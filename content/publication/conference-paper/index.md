@@ -10,8 +10,6 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
 date: '2024-04-01T00:00:00Z'
 doi: ''
@@ -39,8 +37,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+#
 
 url_pdf: ''
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
@@ -63,15 +60,14 @@ url_video: 'https://youtube.com'
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides:""
 
 
 # {{% callout note %}}
