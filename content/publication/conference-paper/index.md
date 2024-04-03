@@ -29,8 +29,8 @@ publishDate: '2024-03-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: Miguel, Sergio, Aitor. Title here. 
-publication_short: Jornadas de Ingeniería del Software y Bases de Datos (JISBD'24). 2024
+publication: Jornadas de Ingeniería del Software y Bases de Datos (JISBD'24)
+publication_short: JISBD'24
 
 
 # Summary. An optional shortened abstract.
@@ -87,6 +87,5 @@ url_pdf: ''
 # Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
 
 ---
-Romero-Arjona Miguel, Segura Sergio, and Arrieta Aitor. **Toward Trustworthy AI-Enabled Internet Search**. Jornadas de Ingeniería del Software y Bases de Datos (JISBD), 2024.
 
 
