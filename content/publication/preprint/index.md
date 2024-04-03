@@ -24,7 +24,7 @@ publication_short: "Jornadas de Ingeniería del Software y Bases de Datos (JISBD
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 # - name: Custom Link
