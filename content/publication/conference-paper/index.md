@@ -5,9 +5,10 @@ draft: false
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Miguel Romero-Arjona
+- Miguel Romero Arjona
 - Sergio Segura
 - Aitor Arrieta
+
 
 
 
