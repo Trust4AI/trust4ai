@@ -28,7 +28,7 @@ publishDate: '2024-03-01T00:00:00Z'
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 publication_types: 
-- paper-conference
+- "paper-conference"
 
 # Publication name and optional abbreviated publication name.
 publication: "Jornadas de Ingeniería del Software y Bases de Datos (JISBD'24)"
