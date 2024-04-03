@@ -1,10 +1,13 @@
 ---
-# title: ''
+title: 'Toward Trustworthy AI-Enabled Internet Search'
 draft: false
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-# authors:
+authors:
+- Romero-Arjona Miguel,
+- Segura Sergio
+- Arrieta Aitor.
 
 
 
@@ -26,8 +29,8 @@ publishDate: '2024-03-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-## publication: Miguel, Sergio, Aitor. Title here. 
-## publication_short: Jornadas de Ingeniería del Software y Bases de Datos (JISBD'24). 2024
+publication: Miguel, Sergio, Aitor. Title here. 
+publication_short: Jornadas de Ingeniería del Software y Bases de Datos (JISBD'24). 2024
 
 
 # Summary. An optional shortened abstract.
