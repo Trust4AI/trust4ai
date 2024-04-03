@@ -11,19 +11,19 @@ draft: false
 
 
 # Author notes (optional)
-author_notes:
+# author_notes:
 
 
 date: 2024-03-01
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-03-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-# publication_types: ['paper-conference']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 ## publication: Miguel, Sergio, Aitor. Title here. 
