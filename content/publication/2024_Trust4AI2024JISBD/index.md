@@ -1,7 +1,7 @@
 ---
 title: "Toward Trustworthy AI-Enabled Internet Search"
 # This file represents a page section.
-headless: true
+# headless: true
 
 draft: false
 # Authors
