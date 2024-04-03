@@ -1,33 +1,36 @@
 ---
-# title: ''
+title: 'Toward Trustworthy AI-Enabled Internet Search'
 draft: false
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-# authors:
+authors:
+- Romero-Arjona Miguel,
+- Segura Sergio
+- Arrieta Aitor.
 
 
 
 
 
 # Author notes (optional)
-author_notes:
+# author_notes:
 
 
 date: 2024-03-01
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-03-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-# publication_types: ['paper-conference']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-## publication: Miguel, Sergio, Aitor. Title here. 
-## publication_short: Jornadas de Ingeniería del Software y Bases de Datos (JISBD'24). 2024
+publication: Miguel, Sergio, Aitor. Title here. 
+publication_short: Jornadas de Ingeniería del Software y Bases de Datos (JISBD'24). 2024
 
 
 # Summary. An optional shortened abstract.
