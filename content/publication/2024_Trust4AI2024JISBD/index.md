@@ -1,5 +1,8 @@
 ---
 title: "Toward Trustworthy AI-Enabled Internet Search"
+# This file represents a page section.
+headless: true
+
 draft: false
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
