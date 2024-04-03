@@ -1,7 +1,7 @@
 ---
 title: "Toward Trustworthy AI-Enabled Internet Search"
 authors:
-- Romero-Arjona, Miguel and Segura, Sergio and Arrieta, Aitor
+- Miguel Romero-Arjona , Sergio Segura and Aitor Arrieta.
 date: "2024-03-01T00:00:00Z"
 doi: ""
 
