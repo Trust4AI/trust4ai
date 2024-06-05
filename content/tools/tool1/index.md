@@ -1,7 +1,7 @@
 ---
-title: Coming soon. #TOOL 1
-# summary:  SHORT DESCRIPTION
-date: 2024-01-01
+title: POET #TOOL 1
+summary:  Template-Based Prompt Generator  [GitHub] # HORT DESCRIPTION
+date: 2024-06-05
 ---
 
 
