@@ -47,8 +47,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-#
+links:
+- name: "presentation of JISBD'24"
+  url: "JISBD24-Presentation.pdf"
 
 url_pdf: ''
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
