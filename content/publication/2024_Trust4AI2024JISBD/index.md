@@ -48,7 +48,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: "Presentation"
+- name: "Slides"
   url: "JISBD24-Presentation.pdf"
 
 url_pdf: ''
