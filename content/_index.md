@@ -93,6 +93,10 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
+  - block: collection
+    id: News
+    content:
+    
   - block: contact
     id: contact
     content:
