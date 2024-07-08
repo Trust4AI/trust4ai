@@ -96,7 +96,10 @@ sections:
   - block: collection
     id: News
     content:
-    
+      title: Latest News
+      filters:
+        folders:
+          - news        
   - block: contact
     id: contact
     content:
