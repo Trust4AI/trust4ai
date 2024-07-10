@@ -29,8 +29,8 @@ main:
     url: '#tools'
     weight: 20
   - name: News
-    show_date:false
     url: '#news'
+    show_date: false
     weight: 60
   - name: Contact
     url: '#contact'
