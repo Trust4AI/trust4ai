@@ -4,6 +4,7 @@ weight: 1
 show_date: false
 draft: false
 summary: |
+ <div style="text-align: justify;">
  This section shows some examples of biases in AI language models.Trust4AI is currently exploring methods and tools to automatically detect errors and biases in modern AI-based search engines.
  
  Since early 2024 we have been engaged in bias analysis through experimentation using four different language models such as Llama3-8b, Llama2-7b, Mistral-7b and Gemma-7b. 
@@ -59,6 +60,7 @@ summary: |
  
  
  As we have seen in these examples, the Llama3-8b model actually formulates responses that generate stereotypes. For this database it does so in 30.9% of the cases, a rather high percentage. In addition, the other models such as Llama2-7b, Mistral-7b and Gemma-7b are also biased. Trust4AI will continue to study the behaviour of these models.
+ </div>
 
 
 image: # la imagen debe de estar en la misma carpeta que este archivo y debe de llamarse avatar.*, o usar el atributo filename para especificar el nombre de la imagen
