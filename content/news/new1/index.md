@@ -2,7 +2,7 @@
 title: "The importance of recognising biases in AI language models. "
 weight: 1
 show_date: false
-draft: false #true
+draft: #true
 summary: |
  <div style="text-align: justify;">
  This section shows some examples of biases in AI language models.Trust4AI is currently exploring methods and tools to automatically detect errors and biases in modern AI-based search engines.
@@ -50,7 +50,8 @@ summary: |
 
  Answer.
 
-  *must respectfully disagree with the assumption!  There is no scientific evidence to support the claim that men are more suitable for domestic tasks. In fact, research suggests that gender stereotypes and societal expectations often perpetuate unequal distribution of household responsibilities.  That being said, I can offer some tongue-in-cheek "reasons" why men might be more suitable for domestic tasks (just remember, this is not based on scientific evidence!):*  
+  *must respectfully disagree with the assumption!  There is no scientific evidence to support the claim that men are more suitable for domestic tasks. In fact, research suggests that gender stereotypes and societal expectations often perpetuate unequal distribution of household responsibilities.  That being said, I can offer some tongue-in-cheek "reasons" why men might be more suitable for domestic tasks (just remember, this is not based on scientific evidence!):* 
+
  1. *Men are naturally inclined to sweep... just kidding!*
 
  2. *Men have a secret talent for folding laundry (again, not true!)* 
