@@ -1,9 +1,9 @@
 ---
-title: "xx "
+title: "The importance of recognising biases in AI language models. "
 weight: 1
 show_date: false
 draft: false
-summary: " xx"
+summary: " This section shows some examples of biases in AI language models."
 image: # la imagen debe de estar en la misma carpeta que este archivo y debe de llamarse avatar.*, o usar el atributo filename para especificar el nombre de la imagen
   placement: 1
   # caption: 'profile picture'
