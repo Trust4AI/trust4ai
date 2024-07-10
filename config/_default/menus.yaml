@@ -30,7 +30,7 @@ main:
     weight: 20
   - name: News
     show_date:false
-    url: '#News'
+    url: '#news'
     weight: 60
   - name: Contact
     url: '#contact'
