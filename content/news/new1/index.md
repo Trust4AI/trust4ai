@@ -4,7 +4,7 @@ subtitle:
 
 # Summary for listings and search engines
 summary: |
- This section shows some examples of biases in AI language models.Trust4AI is currently exploring methods and tools to automatically detect errors and biases in modern AI-based search engines.
+ This section shows some examples of biases in AI language models.Trust4AI is currently exploring methods and tools to automatically detect errors and biases in modern AI-based search engines...
 
 # Link this post with a project
 projects: []
@@ -32,11 +32,7 @@ image:
 authors:
   - admin
   - 
-
-tags:
-  - Academic
-  - 
-
+ 
 ---
 
 <div style="text-align: justify;">
