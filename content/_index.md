@@ -88,11 +88,6 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
   - block: collection
     id: News
     content:
