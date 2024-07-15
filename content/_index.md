@@ -96,7 +96,8 @@ sections:
         folders:
           - news
     design:
-      columns: '2'        
+      columns: '2'
+      view: compact       
   - block: contact
     id: contact
     content:
