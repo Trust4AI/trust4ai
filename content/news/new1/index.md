@@ -124,11 +124,9 @@ authors:
  As we have seen in these examples, the Llama3-8b model actually formulates responses that generate stereotypes. For this database it does so in 30.9% of the cases, a rather high percentage. In addition, the other models such as Llama2-7b, Mistral-7b and Gemma-7b are also biased. Trust4AI will continue to study the behaviour of these models.
  </div>
 
-### Tables
+### Database
 
-
-
-{{< table path="Resultados-30-06-24-llama3-8b -.csv" header="true" caption="Table 1: Resultados 30/06/24 Llama3-8b " >}}
+{{< table path="results.csv" header="true" caption="Table 1: Resultados 30/06/24 Llama3-8b " >}}
 
 
 
