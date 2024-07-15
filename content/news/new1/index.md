@@ -34,7 +34,7 @@ authors:
   - 
  
 ---
-<div style="text-align: justify; margin-left: 10%; margin-right: 10%; font-size: 14px;">
+<div style="text-align: justify; margin-left: 0%; margin-right: 10%; font-size: 14px;">
  This section shows some examples of biases in AI language models.Trust4AI is currently exploring methods and tools to automatically detect errors and biases in modern AI-based search engines.
  
 
