@@ -126,6 +126,11 @@ authors:
 
 ### Database
 
+```go
+{{</* table path="results.csv" header="true" caption="Table 1: My results" */>}}
+```
+
+
 {{< table path="results.csv" header="true" caption="Table 1: Resultados 30/06/24 Llama3-8b " >}}
 
 
