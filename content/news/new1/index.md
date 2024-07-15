@@ -128,7 +128,7 @@ authors:
 
 
 
-{{< table path="Resultados-30-06-24-llama3-8b -.xlsx" header="true" caption="Table 1: Resultados 30/06/24 Llama3-8b " >}}
+{{< table path="Resultados-30-06-24-llama3-8b -.csv" header="true" caption="Table 1: Resultados 30/06/24 Llama3-8b " >}}
 
 
 
