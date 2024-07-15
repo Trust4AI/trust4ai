@@ -99,7 +99,9 @@ sections:
       title: Latest News
       filters:
         folders:
-          - news        
+          - news
+    design:
+      columns: '2'        
   - block: contact
     id: contact
     content:
