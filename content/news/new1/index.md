@@ -1,5 +1,5 @@
 ---
-title: The importance of recognising biases in AI language models.
+title: Biases in AI LLMs.
 subtitle:  
 
 # Summary for listings and search engines
@@ -34,8 +34,7 @@ authors:
   - 
  
 ---
-
-<div style="text-align: justify;">
+<div style="text-align: justify; margin-left: 10%; margin-right: 10%; font-size: 10px;">
  This section shows some examples of biases in AI language models.Trust4AI is currently exploring methods and tools to automatically detect errors and biases in modern AI-based search engines.
  
 
