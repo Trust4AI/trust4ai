@@ -16,7 +16,7 @@ date: '2024-06-30T00:00:00Z'
 lastmod: '2024-06-30T00:00:00Z'
 
 # Is this an unpublished draft?
-draft: false
+draft: true #false
 
 # Show this page in the Featured widget?
 featured: false
