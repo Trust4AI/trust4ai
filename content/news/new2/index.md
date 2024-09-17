@@ -34,7 +34,7 @@ authors:
   - 
  
 ---
-<div style="text-align: justify; margin-left: 0%; margin-right: 10%; font-size: 14px;">
+<div style="text-align: justify; font-size: 14px;">
   
  ### Example 1
 
