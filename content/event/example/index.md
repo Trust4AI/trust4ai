@@ -30,10 +30,10 @@ links:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 
-- icon: youtube
-  icon_pack: fab
-  name: YouTube
-  url: [https://youtube.com/tu_canal](https://www.youtube.com/watch?v=9pW-VNY6bqE)
+  - icon: youtube
+    icon_pack: fab
+    name: YouTube
+    url: [https://youtube.com/tu_canal](https://www.youtube.com/watch?v=9pW-VNY6bqE)
   
 url_code: ''
 url_pdf: ''
