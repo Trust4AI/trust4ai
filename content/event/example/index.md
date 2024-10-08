@@ -25,16 +25,10 @@ featured: true
 #   focal_point: Right
 
 links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
-
-  - icon: youtube
+  - icon: youtube #twitter
     icon_pack: fab
-    name: YouTube
-    url: [https://youtube.com/tu_canal](https://www.youtube.com/watch?v=9pW-VNY6bqE)
-  
+    name: YouTube #Follow
+    url: https://youtu.be/9pW-VNY6bqE 
 url_code: ''
 url_pdf: ''
 url_slides: ''
