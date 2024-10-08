@@ -1,5 +1,5 @@
 ---
-title:  POET. Template-Based Prompt Generator #
+title:  POET
 summary:  POET. Template-Based Prompt Generator.  [GitHub](https://github.com/Trust4AI/POET) # SHORT DESCRIPTION
 date: 2024-06-05
 
