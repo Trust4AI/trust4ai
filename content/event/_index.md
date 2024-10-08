@@ -7,7 +7,7 @@ cms_exclude: true
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 2
+view: 4
 
 hide_logo: false
 
