@@ -3,7 +3,7 @@ title: Trust4AI project kick-off meeting # Example Demo
 
 
 
-# summary:   'SORT DESCRIPTION'
+summary:   'In this session you will find a video of the first initial meeting of the full Trust4AI team.'
 # abstract:  'LONG DESCRIPTION'
 
 # Talk start and end times.
@@ -29,6 +29,12 @@ links:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
+
+- icon: youtube
+  icon_pack: fab
+  name: YouTube
+  url: [https://youtube.com/tu_canal](https://www.youtube.com/watch?v=9pW-VNY6bqE)
+  
 url_code: ''
 url_pdf: ''
 url_slides: ''
