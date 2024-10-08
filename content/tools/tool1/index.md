@@ -6,7 +6,7 @@ date: 2024-06-05
 links:
   - icon: github 
     icon_pack: fab
-    name: GitHub 
+    name: POET 
     url: https://github.com/Trust4AI/POET
 
       
