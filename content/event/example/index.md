@@ -27,7 +27,7 @@ featured: true
 links:
   - icon: youtube #twitter
     icon_pack: fab
-    name: YouTube #Follow
+    name:  Kick-off meeting #Follow
     url: https://youtu.be/9pW-VNY6bqE 
 url_code: ''
 url_pdf: ''
