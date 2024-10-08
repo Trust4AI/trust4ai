@@ -1,7 +1,7 @@
 ---
 title:  POET
-summary:  POET. Template-Based Prompt Generator.  [GitHub](https://github.com/Trust4AI/POET) # SHORT DESCRIPTION
-date: 2024-06-05
+summary:  Template-Based Prompt Generator.  #[GitHub](https://github.com/Trust4AI/POET) # SHORT DESCRIPTION
+
 
 links:
   - icon: github 
@@ -9,7 +9,7 @@ links:
     name: POET 
     url: https://github.com/Trust4AI/POET
 
-      
+date: 2024-06-05      
 publication_types: 
 - "paper-conference"
 
