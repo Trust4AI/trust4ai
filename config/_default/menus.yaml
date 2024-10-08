@@ -29,7 +29,7 @@ main:
     url: '#tools'
     weight: 20
   - name: News
-    url: '/news/'
+    url: '#news'
     show_date: false
     weight: 60
   - name: Contact
