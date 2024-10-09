@@ -10,6 +10,9 @@ summary: |
 # Link this post with a project
 projects: []
 
+publication_types: 
+- "paper-conference"
+
 # Date published
 date: '2024-06-30T00:00:00Z'
 
