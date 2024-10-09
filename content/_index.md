@@ -64,7 +64,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: Citation # card
+      view: compact #Citation # card
   - block: collection
     id: Videos
     content:
