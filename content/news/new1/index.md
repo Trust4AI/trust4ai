@@ -20,7 +20,7 @@ lastmod: '2024-06-30T00:00:00Z'
 draft: false
 
 # Show this page in the Featured widget?
-featured: false
+featured: true #false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
