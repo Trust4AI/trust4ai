@@ -52,7 +52,7 @@ sections:
           - members
     design:
       columns: '2' 
-      view: mansory 
+      view: compact #mansory 
       flip_alt_rows: false
   - block: collection
     id: featured
@@ -125,6 +125,7 @@ sections:
       # Email form provider
     design:
       columns: '2'
+      view: compact
 ---
 
 
