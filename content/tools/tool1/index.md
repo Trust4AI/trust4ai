@@ -1,7 +1,7 @@
 ---
 title:  POET
-summary:  Template-Based Prompt Generator.  #[GitHub](https://github.com/Trust4AI/POET) # SHORT DESCRIPTION
-
+summary:  Template-Based Prompt Generator. | POET is a template-based prompt generator for testing large language models (LLMs). It leverages customizable JSON templates to create diverse prompts, enabling comprehensive evaluation across various scenarios and inputs. This tool is complementary to EVA
+#[GitHub](https://github.com/Trust4AI/POET) # SHORT DESCRIPTION 
 
 links:
   - icon: github 
