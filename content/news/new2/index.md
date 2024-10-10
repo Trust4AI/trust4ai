@@ -4,7 +4,7 @@ subtitle:
 
 # Summary for listings and search engines
 summary: |
- In this post you will find examples of answers given by LLMs to questions related to Safety. Click to see how the language models are still currently answering harmful questions about discrimination in the workplace and some minority groups. 
+ In this post you will find examples of answers given by LLM GPT-3.5-Turbo to questions related to Safety. Click to see how the language models are still currently answering harmful questions about discrimination in the workplace and some minority groups. 
  
 #This section shows some examples of safety biases in AI language models...
 
