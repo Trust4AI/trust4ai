@@ -5,7 +5,9 @@ subtitle:
 
 # Summary for listings and search engines
 summary: |
- This section shows some examples of biases in AI language models.Trust4AI is currently exploring methods and tools to automatically detect errors and biases in modern AI-based search engines...
+ In this post we show two examples biased by the Llama 3 language model. Click to see the full examples of machismo in everyday situations.
+ 
+#This section shows some examples of biases in AI language models.Trust4AI is currently exploring methods and tools to automatically detect errors and biases in modern AI-based search engines...
 
 # Link this post with a project
 projects: []
