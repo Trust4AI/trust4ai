@@ -4,7 +4,7 @@ title: Toward Trustworthy AI-Enabled Internet Search
 # headless: true
 
 summary: |
- In this work-in-progress paper, we outline our vision for developing a tool ecosystem aimed at automatically testing AI-driven search engines in accordance with EU trustworthiness compliance requirements….Click on the PDF to continue reading.
+ In this work paper, we outline our vision for developing a tool ecosystem aimed at automatically testing AI-driven search engines in accordance with EU trustworthiness compliance requirements….Click on the PDF to continue reading.
 
 draft: false
 # Authors
