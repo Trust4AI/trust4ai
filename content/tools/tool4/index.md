@@ -1,6 +1,7 @@
 ---
-title:  GUARD-ME
-summary:  AI-guided Evaluator for Bias Detection using Metamorphic Testing.  #[GitHub](https://github.com/Trust4AI/GUARD-ME) # SHORT DESCRIPTION
+title:  GUARD-ME. AI-guided Evaluator for Bias Detection using Metamorphic Testing
+summary: GUARD-ME evaluates bias in AI-enabled search engines by evaluating the responses to the source and follow-up test cases. It utilizes Large Language Models (LLMs) to detect any bias and ensure that these systems adhere to ethical standards. This tool is complementary to MUSE, which generates the test cases used, and GENIE, which facilitates communication with LLMs.
+#[GitHub](https://github.com/Trust4AI/GUARD-ME) # SHORT DESCRIPTION
 
 links:
   - icon: github 
@@ -15,4 +16,6 @@ publication_types:
 
 ---
 
+GUARD-ME evaluates bias in AI-enabled search engines by evaluating the responses to the source and follow-up test cases. It utilizes Large Language Models (LLMs) to detect any bias and ensure that these systems adhere to ethical standards. This tool is complementary to MUSE, which generates the test cases used, and GENIE, which facilitates communication with LLMs.
 
+Integration options include a Docker image that launches a REST API with interactive documentation, simplifying its use and integration into various systems. GUARD-ME is part of the Trust4AI research project.
