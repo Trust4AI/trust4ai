@@ -5,12 +5,15 @@ summary:  |
   To use GENIE follow the instructions in the github link below. 
 #[GitHub](https://github.com/Trust4AI/GENIE) # SHORT DESCRIPTION
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ''
-  placement: 2
-  preview_only: false
 
+image: 
+  placement: 1
+  # caption: 'profile picture'
+  focal_point: 'TopLeft'
+  preview_only: false
+  alt_text: An optional description of the image for screen readers.
+  # filename: my-image.jpg  # Uncomment to load an image from `assets/media/` instead.
+  
   
 links:
   - icon: github 
