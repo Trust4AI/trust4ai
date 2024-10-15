@@ -5,6 +5,13 @@ summary:  |
   To use GENIE follow the instructions in the github link below. 
 #[GitHub](https://github.com/Trust4AI/GENIE) # SHORT DESCRIPTION
 
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ''
+  placement: 2
+  preview_only: false
+
+  
 links:
   - icon: github 
     icon_pack: fab
