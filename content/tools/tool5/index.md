@@ -8,7 +8,7 @@ summary:  |
 links:
   - icon: github 
     icon_pack: fab
-    name: LinkedIn
+    name: GitHub
     url: https://github.com/Trust4AI/GENIE
 
 date: 2024-09-17
