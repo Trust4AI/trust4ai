@@ -8,7 +8,7 @@ summary: |
 links:
   - icon: github 
     icon_pack: fab
-    name: GUARDE-ME 
+    name: LinkedIn 
     url: https://github.com/Trust4AI/GUARD-ME
 
 date: 2024-09-17

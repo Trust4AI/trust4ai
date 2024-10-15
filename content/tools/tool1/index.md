@@ -10,7 +10,7 @@ summary:  |
 links:
   - icon: github 
     icon_pack: fab
-    name: POET 
+    name: LinkedIn
     url: https://github.com/Trust4AI/POET
 
 date: 2024-06-05      

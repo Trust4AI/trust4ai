@@ -9,7 +9,7 @@ date: 2024-06-05
 links:
   - icon: github 
     icon_pack: fab
-    name: EVA 
+    name: LinkedIn
     url: https://github.com/Trust4AI/EVA
 
       
