@@ -11,7 +11,7 @@ image:
   # caption: 'profile picture'
   focal_point: 'TopLeft'
   preview_only: false
-  alt_text: An optional description of the image for screen readers.
+  alt_text: Logo.
   # filename: my-image.jpg  # Uncomment to load an image from `assets/media/` instead.
   
   

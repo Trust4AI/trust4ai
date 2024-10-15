@@ -5,6 +5,12 @@ summary: |
   To use GUAR-ME follow the instructions in the github link below. 
 #[GitHub](https://github.com/Trust4AI/GUARD-ME) # SHORT DESCRIPTION
 
+image: 
+  placement: 1
+  focal_point: 'TopLeft'
+  preview_only: false
+  alt_text: Logo.
+
 links:
   - icon: github 
     icon_pack: fab
