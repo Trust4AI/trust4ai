@@ -15,11 +15,11 @@ links:
   - icon_pack: fab
     icon: linkedin # lista con todos los iconos en: https://docs.hugoblox.com/tutorial/resume/step-2/#skills
     name: Linkdin 
-    url: 'https://www.linkedin.com/in/mercedes-romero-arjona-14190a71/'
+    url: 'https://www.linkedin.com/in/mrarjona/'
   - icon_pack: fab
     icon: Google Scholar # lista con todos los iconos en: https://docs.hugoblox.com/tutorial/resume/step-2/#skills
     name: Google Scholar 
-    url: ' '
+    url: 'https://scholar.google.com/citations?user=Am3fr4wAAAAJ'
   
 ---
 
