@@ -55,8 +55,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: "Slides"
-  url: "JISBD24-Presentation.pdf"
+#- name: "Slides"
+#  url: "JISBD24-Presentation.pdf"
 
 url_pdf: ''
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
@@ -109,5 +109,4 @@ design:
 
 ---
 
-In this work-in-progress paper, we outline our vision for developing a tool ecosystem aimed at automatically testing AI-driven search engines in accordance with EU trustworthiness compliance requirements....Click on the PDF to continue reading.
-
+In this work-in-progress paper, we establish the foundation for a fully automated approach to fairness testing in large language models based on two main ideas. First, we propose applying metamorphic testing to identify bias by analysing how model responses change when modifications are made to input prompts. Second, we propose using LLMs for both test case generation and output evaluation, leveraging their capability to generate diverse inputs and classify outputs effectively. A pilot study shows the potential of our approach to uncover bias in three widely used LLMs: Gemma, Llama3, and Mistral. ...Click on the PDF to continue reading.
