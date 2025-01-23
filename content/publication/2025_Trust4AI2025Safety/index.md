@@ -1,5 +1,5 @@
 ---
-title: ASTRAL: Automated Safety Testing of Large Language Models
+title: ASTRAL. Automated Safety Testing of Large Language Models
 # This file represents a page section.
 # headless: true
 
