@@ -53,8 +53,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-##- name: "Slides"
-##  url: "JISBD24-Presentation.pdf"
+- name: "PDF"
+  url: "TRUST4AI_SafetyPaper.pdf"
 
 url_pdf: ''
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
