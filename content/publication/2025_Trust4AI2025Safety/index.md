@@ -78,7 +78,7 @@ url_pdf: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: 
-##- 2024_Trust4AI2024JISBD
+- TRUST4AI_SafetyPaper
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
