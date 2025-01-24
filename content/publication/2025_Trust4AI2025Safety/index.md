@@ -55,6 +55,8 @@ featured: true
 links:
 - name: "PDF"
   url: "TRUST4AI_SafetyPaper.pdf"
+- name: "Podcast"
+  url: "podcast.wav"
 
 url_pdf: ''
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
