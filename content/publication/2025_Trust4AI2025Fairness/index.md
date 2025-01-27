@@ -57,6 +57,8 @@ featured: true
 links:
 - name: "PDF"
   url: "Romero25-Fairness.pdf"
+- name: "Podcast"
+  url: "podcast.mp4"
 
 url_pdf: ''
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
