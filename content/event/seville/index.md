@@ -1,9 +1,9 @@
 ---
-title: Trust4AI project kick-off meeting # Example Demo
+title: Project progress meeting in seville  # Example Demo
 
 
 
-summary:   'In this session you will find a video of the first initial meeting of the full Trust4AI team.'
+summary:   'In mid-January 2025, the Trust4AI team met for the second time in Seville. The meeting, in an intensive two-day session, was used to recapitulate the three lines of research (metamorphic testing, insecure biases and template-based methods), launch new ideas, agree on new projects and make progress on some articles. They also shared moments together that we wanted to evoke in the following video.'
 # abstract:  'LONG DESCRIPTION'
 
 # Talk start and end times.
@@ -28,7 +28,7 @@ links:
   - icon: youtube #twitter
     icon_pack: fab
     name:  YouTube #Follow
-    url: https://youtu.be/9pW-VNY6bqE 
+    url: #https://youtu.be/9pW-VNY6bqE 
 url_code: ''
 url_pdf: ''
 url_slides: ''
