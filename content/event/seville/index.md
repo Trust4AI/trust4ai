@@ -1,5 +1,5 @@
 ---
-title: Project progress meeting in seville  # Example Demo
+title: Trust4AI project meeting in Seville - 2025  # Example Demo
 
 
 
