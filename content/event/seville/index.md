@@ -55,5 +55,5 @@ slides: ''
 
 
 
-{{< youtube XJK06DE0BkE >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XJK06DE0BkE" frameborder="0" allowfullscreen></iframe>
 
