@@ -12,7 +12,7 @@ summary:   'In mid-January 2025, the Trust4AI team met for the second time in Se
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-02-14'
+publishDate: '2025-02-23'
 
 authors: []
 tags: []
@@ -55,5 +55,5 @@ slides: ''
 
 
 
-{{< youtube 9pW-VNY6bqE >}}  
+{{< youtu.be/XJK06DE0BkE >}}  
 
