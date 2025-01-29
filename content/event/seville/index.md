@@ -28,7 +28,7 @@ links:
   - icon: youtube #twitter
     icon_pack: fab
     name:  YouTube #Follow
-    url: #https://youtu.be/9pW-VNY6bqE 
+    url: https://youtu.be/XJK06DE0BkE
 url_code: ''
 url_pdf: ''
 url_slides: ''
