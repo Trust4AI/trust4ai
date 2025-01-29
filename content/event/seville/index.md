@@ -55,5 +55,5 @@ slides: ''
 
 
 
-{{< youtu.be/XJK06DE0BkE >}}  
+{{< youtube XJK06DE0BkE >}}
 
