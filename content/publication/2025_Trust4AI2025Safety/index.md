@@ -110,6 +110,6 @@ design:
 
 **Lisen to the podcast:**
 <audio controls>
-  <source src="podcast.mp3" type="audio/mpeg">
+  <source src="podcast.wav" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
