@@ -1,7 +1,6 @@
 ---
 title:  MUSE. AI-driven Metamorphic Testing Inputs Generator
-summary:  |
-  MUSE generates test inputs for testing the bias of AI-enabled Search Engines. It leverages the capabilities of Large Language Models (LLMs) to create a wide range of source and follow-up test cases. This tool complements GENIE, which manages communication with LLMs, and GUARD-ME, which checks for bias in responses from the systems under test.<br>
+summary:  #MUSE generates test inputs for testing the bias of AI-enabled Search Engines. It leverages the capabilities of Large Language Models (LLMs) to create a wide range of source and follow-up test cases. This tool complements GENIE, which manages communication with LLMs, and GUARD-ME, which checks for bias in responses from the systems under test.<br>
   To use MUSE follow the instructions in the github link below. 
 #[GitHub](https://github.com/Trust4AI/MUSE) # SHORT DESCRIPTION
 
