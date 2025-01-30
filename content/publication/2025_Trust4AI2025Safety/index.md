@@ -108,7 +108,7 @@ design:
 
 ---
 
-In this paper, we present ASTRAL, a tool that auto mates the generation and execution of test cases for testing the safety of LLMs. First, we introduce a novel  black-box coverage criterion to generate balanced and diverse unsafe test inputs across a diverse set of safety categories as well as linguistic writing characteristics. Second, we propose an LLM based approach that leverages Retrieval Augmented Generation, few-shot prompting strategies and web browsing to generate up-to-date test inputs. Lastly we leverage LLMs as test oracles to distinguish between safe and unsafe test outputs, allowing a fully automated testing approach. We conduct an extensive evaluation on well-known LLMs, revealing the following key findings...Click on the PDF to continue reading.
+
 
 **Lisen to the podcast:**
 <audio controls>
