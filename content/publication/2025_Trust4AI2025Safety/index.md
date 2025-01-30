@@ -3,8 +3,6 @@ title: ASTRAL. Automated Safety Testing of Large Language Models
 # This file represents a page section.
 # headless: true
 
-summary: 
-
 draft: false
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
