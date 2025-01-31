@@ -108,7 +108,3 @@ design:
 
 ---
 
-
-<audio controls>
-  <source src="podcast.mp3" type="audio/mpeg">
-</audio>
