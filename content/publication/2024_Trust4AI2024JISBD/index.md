@@ -3,7 +3,7 @@ title: Toward Trustworthy AI-Enabled Internet Search
 # This file represents a page section.
 # headless: true
 
-summary: 
+summary: "Jornadas de Ingeniería del Software y Bases de Datos (JISBD'24)"
 draft: false
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
