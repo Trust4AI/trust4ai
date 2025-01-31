@@ -3,7 +3,7 @@ title: ASTRAL. Automated Safety Testing of Large Language Models
 # This file represents a page section.
 # headless: true
 
-summary: 
+summary: "The 6th ACM/IEEE International Conference on Automation of Software Test (AST 2025)."
   
 draft: false
 # Authors
