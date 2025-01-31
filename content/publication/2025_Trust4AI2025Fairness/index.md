@@ -3,7 +3,7 @@ title: AI-Driven Fairness Testing of Large Language Models. A Preliminary Study
 # This file represents a page section.
 # headless: true
 
-summary: 
+summary: "1st International Workshop on Fairness in Software Systems (co-located with SANER’25). Montréal, Canada. 2025."
 
 draft: false
 # Authors
