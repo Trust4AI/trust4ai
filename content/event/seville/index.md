@@ -3,9 +3,9 @@ title: Trust4AI project meeting in Seville - 2025  # Example Demo
 
 
 
-summary:   'In mid-January 2025, the Trust4AI team met for the second time in Seville. The meeting, in an intensive two-day session, was used to recapitulate the three lines of research (metamorphic testing, insecure biases and template-based methods), launch new ideas, agree on new projects and make progress on some articles. They also shared moments together that we wanted to evoke in the following video.'
+summary:  
 
-abstract:  'In mid-January 2025, the Trust4AI team met for the second time in Seville. The meeting, in an intensive two-day session, was used to recapitulate the three lines of research (metamorphic testing, insecure biases and template-based methods), launch new ideas, agree on new projects and make progress on some articles. They also shared moments together that we wanted to evoke in the following video.'
+abstract:  
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.# date:'2030-06-01T13:00:00Z'

@@ -3,7 +3,7 @@ title: Trust4AI project kick-off meeting # Example Demo
 
 
 
-summary:   'In this session you will find a video of the first initial meeting of the full Trust4AI team.'
+summary:   
 # abstract:  'LONG DESCRIPTION'
 
 # Talk start and end times.
