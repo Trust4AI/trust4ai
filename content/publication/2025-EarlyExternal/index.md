@@ -1,5 +1,5 @@
 ---
-title: EARLY EXTERNAL SAFETY TESTING OF OPENAI'S O3-MINI. INSIGHTS FROM PRE-DEPLOYMENT EVALUATION
+title: Early External Safety Testing of OpenAI's O3-Mini. Insights from Pre-Deployment Evaluation.
 
 summary: "Technical Report"
   

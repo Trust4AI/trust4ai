@@ -1,5 +1,5 @@
 ---
-title: O3-MINI VS DEEPSEEK-R1. WHICH ONE IS SAFER?
+title: O3-Mini vs. DeepSeek-R1. Which One Is Safer?
 
 summary: "Technical Report"
   
