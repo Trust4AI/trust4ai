@@ -18,6 +18,10 @@ links:
     icon_pack: fab
     name: GitHub
     url: https://github.com/Trust4AI/GENIE
+  - icon: youtube
+    icon_pack: fab
+    name: YouTube
+    url: https://www.youtube.com/watch?v=zJW_BL9UhqA
 
 date: 2024-09-17
 
