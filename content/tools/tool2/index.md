@@ -15,7 +15,10 @@ links:
     icon_pack: fab
     name: GitHub
     url: https://github.com/Trust4AI/EVA
-
+  - icon: youtube
+    icon_pack: fab
+    name: YouTube 
+    url: https://youtu.be/m_D46vsRKkI
       
 publication_types: 
 - "paper-conference"

@@ -14,7 +14,10 @@ links:
     icon_pack: fab
     name: GitHub
     url: https://github.com/Trust4AI/POET
-
+  - icon: youtube
+    icon_pack: fab
+    name: YouTube 
+    url: https://youtu.be/m_D46vsRKkI
 date: 2024-06-05      
 publication_types: 
 - "paper-conference"
