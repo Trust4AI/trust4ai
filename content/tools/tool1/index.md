@@ -17,7 +17,7 @@ links:
   - icon: youtube
     icon_pack: fab
     name: YouTube 
-    url: https://youtu.be/m_D46vsRKkI
+    url: https://youtu.be/0_R5cNZ1FOI
 date: 2024-06-05      
 publication_types: 
 - "paper-conference"
