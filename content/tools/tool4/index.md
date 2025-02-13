@@ -17,7 +17,7 @@ links:
   - icon: youtube
     icon_pack: fab
     name: YouTube
-    url: https://www.youtube.com/watch?v=zJW_BL9UhqA
+    url: https://www.youtube.com/watch?v=0_R5cNZ1FOI
 
 date: 2024-09-17
 
