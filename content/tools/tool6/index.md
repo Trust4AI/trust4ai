@@ -15,7 +15,7 @@ links:
   - icon: github 
     icon_pack: fab
     name: GitHub
-    url: https://github.com/Trust4AI/ASTRAL
+    url: https://github.com/Trust4AI/ASTRAL-REST-API
   - icon: youtube
     icon_pack: fab
     name: YouTube
