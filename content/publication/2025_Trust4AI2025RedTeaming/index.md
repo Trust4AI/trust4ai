@@ -1,18 +1,24 @@
 ---
-title: Toward Trustworthy AI-Enabled Internet Search
+title: "Red Teaming Contemporary AI Models: Insights from Spanish and Basque Perspectives"
 # This file represents a page section.
 # headless: true
 
-summary: "Conference on Software Engineering and Databases (JISBD'24)"
+summary: "Conference on Software Engineering and Databases (JISBD'25)"
 draft: false
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Miguel Romero-Arjona
-- Sergio Segura
+- Pablo Valle
+- Juan C. Alonso
+- Ana B. Sánchez
+- Miriam Ugarte
+- Antonia Cazalilla
+- Vicente Cambrón
+- José A. Parejo
 - Aitor Arrieta
-
+- Sergio Segura
 
 
 
@@ -22,11 +28,11 @@ authors:
 # author_notes:
 
 
-date: 2024-03-01
+date: 2025-05-16
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-03-01T00:00:00Z'
+publishDate: '2025-05-16T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -35,8 +41,8 @@ publication_types:
 - "paper-conference"
 
 # Publication name and optional abbreviated publication name.
-publication: "Jornadas de Ingeniería del Software y Bases de Datos (JISBD'24)"
-publication_short: "JISBD'24"
+publication: "Jornadas de Ingeniería del Software y Bases de Datos (JISBD'25)"
+publication_short: "JISBD'25"
 
 
 # Summary. An optional shortened abstract.
@@ -49,8 +55,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: "Slides"
-  url: "JISBD24-Presentation.pdf"
+- name: "PDF"
+  url: "romero25-ai4se.pdf"
 
 url_pdf: ''
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
@@ -74,7 +80,7 @@ url_pdf: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: 
-- 2024_Trust4AI2024JISBD
+- romero25-ai4se
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
