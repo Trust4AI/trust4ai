@@ -46,7 +46,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: "Slides"
-  url: "Testing the Evilness of Large Language Models.pdf"
+  url: "Testing_the_Evilness_of_Large_Language_Models.pdf"
 
 url_pdf: ''
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
